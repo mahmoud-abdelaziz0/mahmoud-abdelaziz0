@@ -1,7 +1,7 @@
 ![Black Liquid Minimalist Daily Quotes LinkedIn Banner](https://github.com/mahmoud-abdelaziz0/mahmoud-abdelaziz0/assets/157170184/ebdb4fd0-2ea5-4861-878b-ec30a6581a66)
 
 ### 🌐 Socials: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mahmoud-abdelaziz-11m) [![Gmail](mahmoudabdelazizibrahim11@gmail.com) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mahmoud79212552) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mahmoud-abdelaziz-11m) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mahmoud79212552) 
 
 ## 💫 About Me:
 Junior front-end web developer with a passion for create dynamic and responsive web pages. i have bachelor's<br> degree in computer science. some Knowledge coming out of college in database, software engineering process,<br> problem solving and operating system. I also have some skills in UI design, in graduation project I designed the<br> entire project, proficient in modern web technologies including HTML5, CSS3, JavaScript, and frameworks such as<br> React.js now I am a front-end developer and Ui designer
