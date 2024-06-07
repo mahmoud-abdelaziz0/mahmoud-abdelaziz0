@@ -26,7 +26,7 @@ Junior front-end web developer with a passion for create dynamic and responsive 
     <a href="#" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
     </a>
-    <br> <hr>
+    <br> <br>
     <a href="#" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
     </a>
@@ -36,7 +36,7 @@ Junior front-end web developer with a passion for create dynamic and responsive 
     <a href="#" rel="noreferrer"> 
         <img src="https://www.svgrepo.com/show/373968/photoshop.svg" alt="photoshop" width="40" height="40"/> 
     </a>
-    <br> <hr>
+    <br> <br>
     <a href="#"  rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     </a>
