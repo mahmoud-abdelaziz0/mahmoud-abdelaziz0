@@ -5,10 +5,10 @@ Junior front-end web developer with a passion for create dynamic and responsive 
 ## contact with me
 ### 📫 How to reach me **mahmoudabdelazizibrahim11@gmail.com**
 ### Social
-<a href="www.linkedin.com/in/mahmoud-abdelaziz-11m" rel="noreferrer"> 
+<a href="https://www.linkedin.com/in/mahmoud-abdelaziz-11m" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/452047/linkedin-1.svg" alt="linkedin" width="40" height="40"/> 
 </a> 
-<a href="https://x.com/Mahmoud79212552" rel="noreferrer"> 
+<a href="https://x.com/Mahmoud79212552" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/?size=100&id=6Fsj3rv2DCmG&format=png&color=000000" alt="X" width="40" height="40"/> 
 </a> 
 
