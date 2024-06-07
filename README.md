@@ -44,7 +44,7 @@ Junior front-end web developer with a passion for create dynamic and responsive 
         <img src="https://www.svgrepo.com/show/512317/github-142.svg" alt="github" width="40" height="40"/> 
     </a>
 </p>
-<hr>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mahmoud-abdelaziz0&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
