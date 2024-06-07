@@ -2,6 +2,12 @@
 
 ## 💫 About Me:
 Junior front-end web developer with a passion for create dynamic and responsive web pages. i have bachelor's<br> degree in computer science. some Knowledge coming out of college in database, software engineering process,<br> problem solving and operating system. I also have some skills in UI design, in graduation project I designed the<br> entire project, proficient in modern web technologies including HTML5, CSS3, JavaScript, and frameworks such as<br> React.js now I am a front-end developer and Ui designer
+
+## CV 
+<a href="https://drive.google.com/file/d/14QlNYqrgaykQY6zK5LW7bgbzeTAO3Qy7/view?usp=drivesdk" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/533447/square-cv.svg" alt="CV" width="40" height="40"/> 
+</a> 
+
 ## contact with me
 ### 📫 How to reach me **mahmoudabdelazizibrahim11@gmail.com**
 ### Social
