@@ -8,18 +8,6 @@ Junior front-end web developer with a passion for create dynamic and responsive 
     <img src="https://www.svgrepo.com/show/262744/curriculum-vitae-portfolio.svg" alt="CV" width="40" height="40"/> 
 </a> 
 
-## contact with me
-### 📫 How to reach me **mahmoudabdelazizibrahim11@gmail.com**
-### Social
-<a href="https://www.linkedin.com/in/mahmoud-abdelaziz-11m" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/452047/linkedin-1.svg" alt="linkedin" width="40" height="40"/> 
-</a> 
-<a href="https://x.com/Mahmoud79212552" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/?size=100&id=6Fsj3rv2DCmG&format=png&color=000000" alt="X" width="40" height="40"/> 
-</a> 
-
-
-
 ## 💻 Tech Stack:
 <p align="center">
     <a href="#" rel="noreferrer"> 
@@ -61,6 +49,17 @@ Junior front-end web developer with a passion for create dynamic and responsive 
         <img src="https://www.svgrepo.com/show/512317/github-142.svg" alt="github" width="40" height="40"/> 
     </a>
 </p>
+
+## contact with me
+### 📫 How to reach me **mahmoudabdelazizibrahim11@gmail.com**
+### Social
+<a href="https://www.linkedin.com/in/mahmoud-abdelaziz-11m" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/452047/linkedin-1.svg" alt="linkedin" width="40" height="40"/> 
+</a> 
+<a href="https://x.com/Mahmoud79212552" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/?size=100&id=6Fsj3rv2DCmG&format=png&color=000000" alt="X" width="40" height="40"/> 
+</a> 
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mahmoud-abdelaziz0&limit=5&theme=dark&combine_all_yearly_contributions=true)
