@@ -3,9 +3,15 @@
 ## 💫 About Me:
 Junior front-end web developer with a passion for create dynamic and responsive web pages. i have bachelor's<br> degree in computer science. some Knowledge coming out of college in database, software engineering process,<br> problem solving and operating system. I also have some skills in UI design, in graduation project I designed the<br> entire project, proficient in modern web technologies including HTML5, CSS3, JavaScript, and frameworks such as<br> React.js now I am a front-end developer and Ui designer
 ## contact with me
-<a href="mahmoudabdelazizibrahim11@gmail.com" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/452213/gmail.svg" alt="gmail" width="40" height="40"/> 
+### 📫 How to reach me **mahmoudabdelazizibrahim11@gmail.com**
+### Social
+<a href="www.linkedin.com/in/mahmoud-abdelaziz-11m" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/452047/linkedin-1.svg" alt="linkedin" width="40" height="40"/> 
 </a> 
+<a href="https://x.com/Mahmoud79212552" rel="noreferrer"> 
+    <img src="https://img.icons8.com/?size=100&id=6Fsj3rv2DCmG&format=png&color=000000" alt="X" width="40" height="40"/> 
+</a> 
+
 
 
 ## 💻 Tech Stack:
