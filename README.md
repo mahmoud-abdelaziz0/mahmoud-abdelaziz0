@@ -1,4 +1,6 @@
-![Black Liquid Minimalist Daily Quotes LinkedIn Banner](https://github.com/mahmoud-abdelaziz0/mahmoud-abdelaziz0/assets/157170184/ebdb4fd0-2ea5-4861-878b-ec30a6581a66)
+
+<img width="1584" height="396" alt="2" src="https://github.com/user-attachments/assets/122e9819-3613-4d54-a1d6-baadd1d6d6ab" />
+
 
 ## 💫 About Me:
 Junior front-end web developer with a passion for create dynamic and responsive web pages. i have bachelor's<br> degree in computer science. some Knowledge coming out of college in database, software engineering process,<br> problem solving and operating system. I also have some skills in UI design, in graduation project I designed the<br> entire project, proficient in modern web technologies including HTML5, CSS3, JavaScript, and frameworks such as<br> React.js now I am a front-end developer and Ui designer
@@ -9,7 +11,7 @@ Junior front-end web developer with a passion for create dynamic and responsive 
 </a> 
 
 ## 💻 Tech Stack:
-<p align="center">
+<div align="center">
     <a href="#" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
     </a> 
@@ -18,6 +20,9 @@ Junior front-end web developer with a passion for create dynamic and responsive 
     </a> 
     <a href="#" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    </a> 
+     <a href="#" rel="noreferrer"> 
+         <img width="40" height="40" alt="Typescript_logo_2020 svg" src="https://github.com/user-attachments/assets/436645de-cbb1-4d61-ab5f-bbd028fff79a" />
     </a> 
     <a href="#" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
@@ -48,7 +53,7 @@ Junior front-end web developer with a passion for create dynamic and responsive 
     <a href="#"  rel="noreferrer"> 
         <img src="https://www.svgrepo.com/show/512317/github-142.svg" alt="github" width="40" height="40"/> 
     </a>
-</p>
+</div>
 
 ## contact with me
 ### 📫 How to reach me **mahmoudabdelazizibrahim11@gmail.com**
