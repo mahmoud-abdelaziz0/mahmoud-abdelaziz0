@@ -1,117 +1,166 @@
-<!-- Replace this banner URL with your preferred GitHub profile banner -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/122e9819-3613-4d54-a1d6-baadd1d6d6ab" width="100%" alt="Mahmoud Abdelaziz — Developer Profile Banner" />
+<!--
+  Mahmoud Abdelaziz — GitHub Profile README
+  Replace the project placeholders with real repository and demo URLs before publishing.
+-->
+
+<div align="center">
+
+<img width="100%" src="https://github.com/user-attachments/assets/122e9819-3613-4d54-a1d6-baadd1d6d6ab" alt="Mahmoud Abdelaziz profile banner" />
+
+<br/>
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  mahmoud@github:~$ whoami                                     │
+│                                                              │
+│  Mahmoud Abdelaziz                                            │
+│  Frontend Developer  |  UI Designer                           │
+│                                                              │
+│  Building interfaces. Solving problems. Learning every day.   │
+└──────────────────────────────────────────────────────────────┘
+```
+
+<a href="https://www.linkedin.com/in/mahmoud-abdelaziz-11m">
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://drive.google.com/file/d/14QlNYqrgaykQY6zK5LW7bgbzeTAO3Qy7/view?usp=drivesdk">
+  <img src="https://img.shields.io/badge/RESUME-View-8B5CF6?style=flat-square&logo=googledrive&logoColor=white" alt="Resume"/>
+</a>
+<a href="mailto:mahmoudabdelazizibrahim11@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-Contact-22C55E?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/mahmoud-abdelaziz0">
+  <img src="https://img.shields.io/badge/GITHUB-Profile-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+---
+
+### `01 // about-me`
+
+```yaml
+name: Mahmoud Abdelaziz
+role:
+  - Frontend Developer
+  - UI Designer
+education: Bachelor's Degree in Computer Science
+interests:
+  - Modern Web Development
+  - User Interface Design
+  - Problem Solving
+  - Software Engineering
+```
+
+I'm a Computer Science graduate passionate about building responsive, accessible, and user-friendly web interfaces. I enjoy combining frontend development with UI design to create clear and engaging digital experiences.
+
+I'm continuously improving my technical skills through learning, experimentation, and practical projects.
+
+---
+
+### `02 // tech-stack`
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,redux" alt="HTML, CSS, JavaScript, TypeScript, React, Angular and Redux"/>
 </p>
 
-<h1 align="center">Hi, I'm Mahmoud Abdelaziz 👋</h1>
+**Styling**
 
-<h3 align="center">Frontend Developer | UI Designer</h3>
-
-<p align="center">
-  Building responsive web experiences with a focus on clean code, usability, and thoughtful UI design.
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass" alt="Tailwind CSS, Bootstrap and Sass"/>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mahmoud-abdelaziz-11m">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://drive.google.com/file/d/14QlNYqrgaykQY6zK5LW7bgbzeTAO3Qy7/view?usp=drivesdk">
-    <img src="https://img.shields.io/badge/Resume-View-6C63FF?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
-  </a>
-  <a href="mailto:mahmoudabdelazizibrahim11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+**UI / Design**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,xd,ps" alt="Figma, Adobe XD and Photoshop"/>
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### `03 // selected-projects`
 
-I'm a Computer Science graduate interested in building modern, responsive, and user-friendly web applications.
+> A place to showcase the work that best represents my skills.
 
-- 💻 Focused on frontend development using React, Angular, JavaScript, and TypeScript.
-- 🎨 Interested in UI design and creating intuitive user experiences.
-- 🧩 Familiar with software engineering fundamentals, databases, problem-solving, and operating systems.
-- 🚀 Always learning, building projects, and improving my development skills.
-
-## 🛠️ Tech Stack
-
-### Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,redux,sass,tailwind,bootstrap" alt="Frontend technologies" />
-</p>
-
-### UI/UX Design
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,xd,ps" alt="Design tools" />
-</p>
-
-### Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools" />
-</p>
-
-## 🚀 Featured Projects
-
-<!-- Replace these examples with your real projects and repository links. -->
+<!-- Replace these examples with real projects before publishing. -->
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Project One</h3>
-      <p align="center">
-        A short description of the problem this project solves and the features you implemented.
-      </p>
-      <p align="center">
-        <strong>Tech:</strong> React · TypeScript · CSS
-      </p>
-      <p align="center">
-        <a href="YOUR_REPOSITORY_URL">Repository</a> ·
-        <a href="YOUR_LIVE_DEMO_URL">Live Demo</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Project Two</h3>
-      <p align="center">
-        A short description of the application, its main functionality, and your contribution.
-      </p>
-      <p align="center">
-        <strong>Tech:</strong> Angular · TypeScript · CSS
-      </p>
-      <p align="center">
-        <a href="YOUR_REPOSITORY_URL">Repository</a> ·
-        <a href="YOUR_LIVE_DEMO_URL">Live Demo</a>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### `project-01`
+
+**Project Name**
+
+Briefly explain what the project does, the problem it solves, and the features you implemented.
+
+**Built with:** `React` · `JavaScript` · `CSS`
+
+[Repository](YOUR_PROJECT_REPOSITORY_URL) · [Live Demo](YOUR_LIVE_DEMO_URL)
+
+</td>
+<td width="50%" valign="top">
+
+#### `project-02`
+
+**Project Name**
+
+Describe another real project, focusing on your contribution, key functionality, and technical decisions.
+
+**Built with:** `Angular` · `TypeScript` · `CSS`
+
+[Repository](YOUR_PROJECT_REPOSITORY_URL) · [Live Demo](YOUR_LIVE_DEMO_URL)
+
+</td>
+</tr>
 </table>
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mahmoud-abdelaziz0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Mahmoud's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-abdelaziz0&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mahmoud-abdelaziz0&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
 
 ---
 
-## 🤝 Let's Connect
+### `04 // github-analytics`
 
-I'm open to connecting with developers, exchanging ideas, and collaborating on interesting projects.
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mahmoud-abdelaziz0&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-abdelaziz0&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=mahmoud-abdelaziz0&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+### `05 // find-me`
+
+```bash
+$ contact --email
+mahmoudabdelazizibrahim11@gmail.com
+
+$ connect --linkedin
+Mahmoud Abdelaziz
+```
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahmoud-abdelaziz-11m">LinkedIn</a> •
-  <a href="https://x.com/Mahmoud79212552">X</a> •
+  <a href="https://x.com/Mahmoud79212552">X / Twitter</a> •
   <a href="mailto:mahmoudabdelazizibrahim11@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  <sub>Always learning. Always building. 🚀</sub>
-</p>
+<div align="center">
+
+```text
+$ echo "Keep learning. Keep building."
+```
+
+</div>
