@@ -1,4 +1,3 @@
-ده ال readme file بتاع github profile بتاعي:
 <img width="1584" height="396" alt="2" src="https://github.com/user-attachments/assets/122e9819-3613-4d54-a1d6-baadd1d6d6ab" />
 
 
@@ -80,5 +79,3 @@ Junior front-end web developer with a passion for create dynamic and responsive 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mahmoud-abdelaziz0&icon=0&color=0)](https://visitcount.itsvg.in)
-
-انا عاوز اطورة واعمل فيه حاجات جامده واخليه more proffisional
